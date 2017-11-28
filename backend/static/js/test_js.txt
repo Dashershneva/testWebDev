@@ -1,0 +1,56 @@
+/*var hello = 1 + 2;
+//alert(hello);
+console.log(hello);
+console.log("Te'st" + 1.2);
+
+if hello > 3 {
+	console.log('WOW')	
+} else if (helo <3) {
+	console.log('NOPE')
+} else {
+	console.log('EQUAL')
+} 
+
+//var x = hello > 3 ? 'WOW' : 'ELSE';
+
+var x = [1, 2, 3, 4];
+
+console.log(x);
+console.log(x.length);
+console.log(x[1] + x[3]);
+
+for (var i = 0; i < 4; i++) {
+	console.log(i + '; ' + x[i])
+}
+
+x.forEach(function(el)) {
+	console.log(el)
+} 
+
+var hello = function(el) {
+	var newel = el + 2;
+	return newel;
+} 
+*/
+
+/*$(function() {
+	var $btn = $('.btn');
+	$btn.click(function () {
+		var $this = $(this);
+		
+		$this.toggleClass('btn-danger');
+		$this.toggleClass('btn-primary');
+		$this.text('WOW');
+			 
+		return false;
+	});
+	.click(function () {
+		defaultpic = !defaultpick;
+		$('img').attr(
+		'src',
+		dafaultpic ? 'img/cat.png'
+					: 'img/cat2.png'
+		);
+		return false;
+	});
+});*/
